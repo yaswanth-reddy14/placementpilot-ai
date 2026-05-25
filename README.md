@@ -14,7 +14,7 @@ The project follows a clean production-style route-controller-service architectu
 
 * Live API: https://placementpilot-ai.onrender.com
 * Swagger Docs: https://placementpilot-ai.onrender.com/api-docs
-* GitHub Repository: https://github.com/YOUR_USERNAME/placementpilot-ai
+* GitHub Repository: https://github.com/yaswanth-reddy14/placementpilot-ai.git
 
 ---
 
