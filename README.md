@@ -141,14 +141,14 @@ npm run check
 ## Environment Variables
 
 ```env
-NODE_ENV=development
 PORT=5000
-MONGODB_URI=mongodb://127.0.0.1:27017/placementpilot
-CORS_ORIGIN=http://localhost:3000
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_secret
+GEMINI_API_KEY=your_key
+GEMINI_MODEL=gemini-2.0-flash
+NODE_ENV=development
+CORS_ORIGIN=*
 JSON_BODY_LIMIT=1mb
-RESUME_UPLOAD_MAX_BYTES=5242880
-GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-1.5-flash
 ```
 
 | Variable | Purpose |
