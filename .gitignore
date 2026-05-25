@@ -5,6 +5,7 @@ node_modules/
 uploads/
 .mcp.json
 .cursor/mcp.json
+.tmp/
 .jetro/
 npm-debug.log*
 yarn-debug.log*
